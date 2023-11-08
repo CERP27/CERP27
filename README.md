@@ -1,8 +1,8 @@
 # 💫 About Me:
-🌟I'm currently open for work<br>👨🏻‍💻Learning TypeScript<br>💻Interested greatly in back-end development<br>💪🏻Maximum Effort<br><br>
+🌟I'm currently open for work<br>👨🏻‍💻Learning Pytho<br>💻Interested greatly in back-end development<br>💪🏻Maximum Effort<br><br>
 I am a person passionate about technology and have always been drawn to its potential. I started my education in electronic engineering in Venezuela, but later moved to Argentina, where I decided to focus on my passion for web development.
 
-I have strong knowledge in React, Redux, Express, and JavaScript, and currently, I am expanding my skills by self-learning TypeScript because I want to apply it in NestJS, a technology that I am very interested in learning and mastering, as I feel more inclined towards Back-End development. I would love to apply my knowledge in a real work environment and put my technical skills to the test.
+I have strong knowledge in React, Redux, Express, and JavaScript, and currently, I am expanding my skills by self-learning Python, a technology that I am very interested in learning and mastering, as I feel more inclined towards Back-End development. I would love to apply my knowledge in a real work environment and put my technical skills to the test.
 
 In addition to my technical skills, I stand out for my ability to work in a team, collaborate effectively, and communicate my ideas clearly and concisely. Valuing others' perspectives, I firmly believe in the importance of teamwork and synergy to achieve exceptional results.
 
